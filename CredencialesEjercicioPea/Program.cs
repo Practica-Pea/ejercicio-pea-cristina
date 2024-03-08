@@ -13,7 +13,6 @@ string password = Console.ReadLine();
 
     Console.WriteLine("Prueba");
         Console.WriteLine("Prueba2");
-
-            Console.WriteLine("Prueba4");
         
+ Console.WriteLine("Prueba3");   
 
