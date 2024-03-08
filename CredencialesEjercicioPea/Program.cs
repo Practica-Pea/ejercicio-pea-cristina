@@ -11,8 +11,5 @@ string password = Console.ReadLine();
     Console.WriteLine($"Contraseña: {password}"); // TODO ocultar con * la contraseña
 
 
-    Console.WriteLine("Prueba");
-        Console.WriteLine("Prueba2");
-        
- Console.WriteLine("Prueba17:45");   
 
+Console.WriteLine("Autor Johri Murillo 08/03/2024");
