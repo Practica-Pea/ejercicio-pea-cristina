@@ -9,3 +9,7 @@ string password = Console.ReadLine();
     Console.WriteLine("Has introducido los siguientes datos:");
     Console.WriteLine($"Usuario: {usuario}");
     Console.WriteLine($"Contraseña: {password}"); // TODO ocultar con * la contraseña
+
+
+    Console.WriteLine("Prueba");
+        Console.WriteLine("Prueba2");
